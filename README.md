@@ -58,6 +58,6 @@ High Risk Employees Table
 - Sales department has highest attrition
 
 ![Executive Overview]([Screenshots/page1_overview.png](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-24%20123213.png))
-![Attrition AI](Screenshots/page2_attrition_ai.png)
+![Attrition AI](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-24%20123230.png)
 ![Demographics](Screenshots/page3_demographics.png)
 ![Retention](Screenshots/page4_retention.png)
