@@ -60,4 +60,4 @@ High Risk Employees Table
 ![Executive Overview](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-24%20123213.png))
 ![Attrition AI](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-24%20123230.png)
 ![Demographics](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-24%20123312.png)
-![Retention](Screenshots/page4_retention.png)
+![Retention](https://github.com/Himani0025/HR-Attrition-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-02-24%20123444.png)
